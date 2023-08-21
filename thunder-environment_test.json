@@ -1,0 +1,12 @@
+{
+    "client": "Thunder Client",
+    "environmentName": "test",
+    "dateExported": "2023-08-21T02:36:15.104Z",
+    "version": "1.0",
+    "variables": [
+        {
+            "name": "API_KEY",
+            "value": "eyJhcGlfa2V5IjoiMzg3OTdhY2Y5N2NmZjgzZjQxNGI5ODNiN2E2MjY3NmQifQ=="
+        }
+    ]
+}

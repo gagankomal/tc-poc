@@ -1,0 +1,33 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Simplecast",
+    "dateExported": "2023-08-21T02:19:12.495Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "f4137d1f-c5ee-4733-b5cb-20122f8eff16",
+            "colId": "7a7515c2-48ef-4874-b225-8ce629ba776e",
+            "containerId": "",
+            "name": "Episode",
+            "url": "https://api.simplecast.com/analytics/episodes?podcast=c3161c7d-d5ac-46a9-82c1-b18cbcc93b5c",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-08-17T16:58:21.166Z",
+            "modified": "2023-08-17T16:58:55.141Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "podcast",
+                    "value": "c3161c7d-d5ac-46a9-82c1-b18cbcc93b5c",
+                    "isPath": false
+                }
+            ],
+            "auth": {
+                "type": "bearer",
+                "bearer": "{{API_KEY}}"
+            },
+            "tests": []
+        }
+    ]
+}
